@@ -26,8 +26,3 @@
 ## 🚀 Использование
 
 Хочешь использовать этот репозиторий? Конечно хочешь!
-
-```bash
-git clone https://github.com/your-username/my-first-repo.git
-cd my-first-repo
-cat README.md  # wow!
